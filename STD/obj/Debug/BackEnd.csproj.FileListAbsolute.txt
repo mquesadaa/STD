@@ -1,0 +1,6 @@
+D:\Documentos\Proyecto STD\STD\STD\bin\Debug\STD.dll
+D:\Documentos\Proyecto STD\STD\STD\bin\Debug\STD.pdb
+D:\Documentos\Proyecto STD\STD\STD\obj\Debug\BackEnd.csprojAssemblyReference.cache
+D:\Documentos\Proyecto STD\STD\STD\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto STD\STD\STD\obj\Debug\STD.dll
+D:\Documentos\Proyecto STD\STD\STD\obj\Debug\STD.pdb
